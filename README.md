@@ -14,8 +14,8 @@
 
 <h2>Instructions:</h2>
 <ul>
-  <li><code>npm run build</code> to compile native code</li>
-  <li><code>npm run dev</code> or <code>node index.js</code> to run JS script</li>
+  <li><code>npm run build</code> to compile native code.</li>
+  <li><code>npm run dev</code> or <code>node index.js</code> to run JS script.</li>
 </ul>
 
 </body>
